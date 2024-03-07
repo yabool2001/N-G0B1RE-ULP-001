@@ -1,0 +1,17 @@
+../Core/Src/main.c:74:5:main	1
+../Core/Src/main.c:123:6:SystemClock_Config	3
+../Core/Src/main.c:164:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:212:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:260:13:MX_GPIO_Init	1
+../Core/Src/main.c:303:6:my_led_toggle	2
+../Core/Src/main.c:313:6:astro_reset	1
+../Core/Src/main.c:319:6:send_debug_logs	2
+../Core/Src/main.c:332:6:my_astronode_reset	1
+../Core/Src/main.c:339:6:send_astronode_request	1
+../Core/Src/main.c:345:10:get_systick	1
+../Core/Src/main.c:349:6:is_systick_timeout_over	1
+../Core/Src/main.c:353:6:is_astronode_character_received	1
+../Core/Src/main.c:357:6:my_astro_evt_pin	1
+../Core/Src/main.c:361:6:my_astro_init	4
+../Core/Src/main.c:396:6:sys_init	1
+../Core/Src/main.c:406:6:Error_Handler	1
